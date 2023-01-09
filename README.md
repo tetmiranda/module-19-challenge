@@ -50,3 +50,26 @@ To receive all points, you must:
 * Send a transaction by using the KryptoJobs2Go application, and then use the returned transaction hash to verify the transaction in Ganache. In the README.md file of your GitHub repository for this Challenge assignment, include a screenshot from Ganache of the transaction details.
 
 * In your README.md file, include two screenshots from Ganache: one of the sender’s address balance and history and another of the recipient's address balance and history.
+
+### Ganache: Before transactions
+![alt=""](Images/ganache-addresses.png)
+
+### Name: Lane
+![alt=""](Images/sc_Lane.png)
+
+![alt=""](Images/upd_ganache_Lane.png)
+
+### Name: Ash
+![alt=""](Images/sc_Ash.png)
+
+![alt=""](Images/upd_ganache_Ash.png)
+
+### Name: Jo
+![alt=""](Images/sc_Jo.png)
+
+![alt=""](Images/upd_ganache_Jo.png)
+
+### Name: Kendall
+![alt=""](Images/sc_Kendall.png)
+
+![alt=""](Images/upd_ganache_Kendall.png)
